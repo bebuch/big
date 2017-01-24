@@ -15,8 +15,8 @@ namespace big{
 
 
 	/// \brief Exception class that will throws by load or save big files
-        struct big_error: std::runtime_error{
-            using std::runtime_error::runtime_error;
+	struct big_error: std::runtime_error{
+		using std::runtime_error::runtime_error;
 	};
 
 
