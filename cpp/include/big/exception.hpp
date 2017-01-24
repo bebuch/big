@@ -11,7 +11,7 @@
 
 #include <stdexcept>
 
-namespace disposer_module{ namespace big{
+namespace big{
 
 
 	/// \brief Exception class that will throws by load or save big files
@@ -20,6 +20,6 @@ namespace disposer_module{ namespace big{
 	};
 
 
-} }
+}
 
 #endif

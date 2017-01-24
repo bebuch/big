@@ -12,7 +12,7 @@
 #include <type_traits>
 
 
-namespace disposer_module{ namespace big{
+namespace big{
 
 
 	/// \brief It's a meta function, that get the numeric value for the type
@@ -45,6 +45,6 @@ namespace disposer_module{ namespace big{
 	constexpr unsigned short type_v = type< T >::value;
 
 
-} }
+}
 
 #endif

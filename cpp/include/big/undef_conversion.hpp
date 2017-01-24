@@ -15,7 +15,7 @@
 #include <utility>
 
 
-namespace disposer_module{ namespace big{
+namespace big{
 
 
 	template < typename T >
@@ -55,6 +55,6 @@ namespace disposer_module{ namespace big{
 	}
 
 
-} }
+}
 
 #endif

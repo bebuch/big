@@ -17,7 +17,7 @@
 #include <fstream>
 #include <cstdint>
 
-namespace disposer_module{ namespace big{
+namespace big{
 
 
 	/// \brief Saves a image or quality picture by a given filename
@@ -94,6 +94,6 @@ namespace disposer_module{ namespace big{
 	}
 
 
-} }
+}
 
 #endif

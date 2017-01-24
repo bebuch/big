@@ -17,7 +17,7 @@
 #include <fstream>
 #include <cstdint>
 
-namespace disposer_module{ namespace big{
+namespace big{
 
 
 	/// \brief Header of a big file
@@ -136,6 +136,6 @@ namespace disposer_module{ namespace big{
 	}
 
 
-} }
+}
 
 #endif
