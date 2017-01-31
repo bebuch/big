@@ -1,2 +1,3 @@
 # big
-Big is a very simple fileformat for bitmaps
+
+Big is a very simple file format for bitmaps.
